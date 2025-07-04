@@ -1,17 +1,10 @@
 <<<<<<< HEAD
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # React-app-project
 Simple React project with basic pipelines
 >>>>>>> 96ee84c5c1c067edfcc73b7d1038c5b20f67b3f9
+
+1st we will stup our git-hub with Creating new Public or Privet Repo. for our project app.
+2nd we need to create one personal access token to connect it through the Jenkins.
+3rd Now we will Push our react app code and entire files related to the project.
